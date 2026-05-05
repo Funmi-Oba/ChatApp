@@ -1,7 +1,7 @@
 # ChatApp — End-to-End Encrypted Messaging
 
 ## Live Demo
-[]
+['https://chat-app-one-teal-30.vercel.app/']
 
 ## Architecture
 - Frontend: React + Vite + Tailwind CSS
